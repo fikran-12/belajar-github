@@ -23,3 +23,17 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     hello()
+
+    print("Halo, Dunia!")
+
+    
+panjang = 10
+lebar = 5
+
+
+luas = panjang * lebar
+
+
+print(f"Panjang: {panjang}")
+print(f"Lebar: {lebar}")
+print(f"Luas persegi panjang adalah: {luas}")

@@ -17,3 +17,9 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     hello()
+
+    def hello():
+    print("saya mencoba push ke branch yang di lindungi")
+
+if __name__ == "__main__":
+    hello()
